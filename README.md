@@ -20,5 +20,5 @@ Now enter the browser and access the link given in the terminal or by default ac
 
 Now just register the cities to see the information.
 
-##### Auth: Christopher Feitosa
-##### Edit: Christopher Feitosa
+##### Auth: **_Christopher Feitosa_**
+##### Edit: **_Christopher Feitosa_**
