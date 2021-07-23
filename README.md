@@ -3,12 +3,14 @@ The project's main objective is to show the temperatures and climate of the regi
 <br>
 ### Run App
 First you have to have Python installed on your computer to run the next command:
-```pip install requirements.txt```
+```pip install requirements.txt```.
 <br>
+
 After running the above command open the terminal navigate to the directory where app.py is installed and then use the following command:
 ```python models.py```
 The above command will make the database.
 <br>
+
 After creating the database use the next command:
 ```python app.py```
 
