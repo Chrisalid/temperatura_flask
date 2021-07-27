@@ -46,7 +46,6 @@ def index():
             name is requested by the user.
         '''
         url = 'https://api.openweathermap.org/data/2.5/weather?q={}&appid=f7d3986218f3c9e12e6502dfa599d080'  # noqa: E501
-        city = 'Maracanaú'
 
         weather_data = []
 
